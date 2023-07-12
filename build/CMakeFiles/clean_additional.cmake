@@ -3,6 +3,8 @@ cmake_minimum_required(VERSION 3.16)
 
 if("${CONFIG}" STREQUAL "" OR "${CONFIG}" STREQUAL "")
   file(REMOVE_RECURSE
+  "audio_frame.bin"
+  "audio_frame.map"
   "bootloader/bootloader.bin"
   "bootloader/bootloader.elf"
   "bootloader/bootloader.map"
@@ -17,8 +19,6 @@ if("${CONFIG}" STREQUAL "" OR "${CONFIG}" STREQUAL "")
   "flasher_args.json"
   "ldgen_libraries"
   "ldgen_libraries.in"
-  "play_bt_music.bin"
-  "play_bt_music.map"
   "project_elf_src_esp32.c"
   "x509_crt_bundle.S"
   )

@@ -96,7 +96,7 @@ I (522) boot: Loaded app from partition at offset 0x10000
 I (522) boot: Disabling RNG early entropy source...
 I (523) cpu_start: Pro cpu up.
 I (526) cpu_start: Application information:
-I (531) cpu_start: Project name:     play_bt_music
+I (531) cpu_start: Project name:     audio_frame
 I (537) cpu_start: App version:      v2.2-221-gd27be99e
 I (543) cpu_start: Compile time:     Nov 10 2021 16:08:19
 I (549) cpu_start: ELF file SHA256:  bbd4b30b5e82b1c4...
@@ -239,7 +239,7 @@ I (522) boot: Loaded app from partition at offset 0x10000
 I (522) boot: Disabling RNG early entropy source...
 I (523) cpu_start: Pro cpu up.
 I (526) cpu_start: Application information:
-I (531) cpu_start: Project name:     play_bt_music
+I (531) cpu_start: Project name:     audio_frame
 I (537) cpu_start: App version:      v2.2-221-gd27be99e
 I (543) cpu_start: Compile time:     Nov 10 2021 16:08:19
 I (549) cpu_start: ELF file SHA256:  bbd4b30b5e82b1c4...

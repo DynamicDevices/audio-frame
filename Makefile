@@ -1,2 +1,2 @@
-PROJECT_NAME := play_bt_music
+PROJECT_NAME := audio_frame
 include $(ADF_PATH)/project.mk

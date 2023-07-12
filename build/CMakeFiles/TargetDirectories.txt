@@ -9,7 +9,7 @@
 /home/shreya/Projects/AudioFrame/AudioFrame_SourceCode/build/CMakeFiles/flash.dir
 /home/shreya/Projects/AudioFrame/AudioFrame_SourceCode/build/CMakeFiles/encrypted-flash.dir
 /home/shreya/Projects/AudioFrame/AudioFrame_SourceCode/build/CMakeFiles/_project_elf_src.dir
-/home/shreya/Projects/AudioFrame/AudioFrame_SourceCode/build/CMakeFiles/play_bt_music.elf.dir
+/home/shreya/Projects/AudioFrame/AudioFrame_SourceCode/build/CMakeFiles/audio_frame.elf.dir
 /home/shreya/Projects/AudioFrame/AudioFrame_SourceCode/build/CMakeFiles/size.dir
 /home/shreya/Projects/AudioFrame/AudioFrame_SourceCode/build/CMakeFiles/size-files.dir
 /home/shreya/Projects/AudioFrame/AudioFrame_SourceCode/build/CMakeFiles/size-components.dir
