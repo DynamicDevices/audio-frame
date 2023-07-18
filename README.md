@@ -1,3 +1,49 @@
+
+# **HOW TO GET STARTED**
+
+## **For connecting the Speakers:**
+1> Turn on the power supply for the frame.
+
+2> Open the Bluetooth setting on the mobile phone.
+
+3> If you are connecting the speakers for the first time:
+
+- Start scanning and search for a device called "FreshPrintz-AudioFrame".
+- Click on "FreshPrintz-AudioFrame" ( and you will be asked to pair the device.
+- Click on pair.
+
+4> If you have already connected the speakers earlier:
+- In the paired devices list search for a device called "FreshPrintz-AudioFrame"
+- Click on "FreshPrintz-AudioFrame"
+
+5> Congratulations!!! You are now connected to the speakers to play your favourite music!
+
+
+## **For Connecting the Lights:**
+1> If you are connecting the lights for the 1st time:
+- Install and open the “Govee Home” application on your mobile phone.
+- Click on "+" button and search for "H613B 10m RGB Strip Light".
+- Make sure your mobile phone's Bluetooth and location are enabled.
+- Click on the "add" button and rename the Device name to "FreshPrintz-LightFrame".
+
+2> Open the “Govee Home” application.
+
+3> Click on the "FreshPrintz-LightFrame" device and it will connect with the lights.
+
+4> Congratulations!!! You are now connected to the lights and set them according to your choice!
+
+## **For synchronizing the Lights with the Music:**
+1> Open the “Govee Home” application.
+
+2> Choose “Music” as the mode
+
+3> There are two possible ways:
+- if you want to sync music with an inbuilt frame microphone choose “Music Sync from device mic”
+- if you want to sync music with your mobile phone’s microphone choose “Music sync from phone mic”
+
+4> Play music of your choice from you favourite app!
+
+---
 # Classic Bluetooth Sink Pipeline
 
 - [中文版本](./README_CN.md)

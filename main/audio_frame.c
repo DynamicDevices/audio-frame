@@ -1,4 +1,11 @@
-/* Play music from Bluetooth device
+/* 
+ * Created:	18.07.2023
+ * Version:	1.0
+ * 
+ * Created a simple Bluetooth sink to play audio from the source device (like a mobile phone) 
+ * using the development board (LyraT) mounted on the frame which is connected to the speaker.
+   
+   Play music from Bluetooth device
 
    This example code is in the Public Domain (or CC0 licensed, at your option.)
 
